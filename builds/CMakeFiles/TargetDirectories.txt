@@ -1,3 +1,0 @@
-/home/luper/projects/cmakeTemplate/builds/CMakeFiles/rebuild_cache.dir
-/home/luper/projects/cmakeTemplate/builds/CMakeFiles/main.dir
-/home/luper/projects/cmakeTemplate/builds/CMakeFiles/edit_cache.dir
